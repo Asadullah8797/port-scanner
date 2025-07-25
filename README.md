@@ -1,23 +1,28 @@
-# 🔍 Port Scanner
+🔍 Advanced Port Scanner
+
+A fast, multi-threaded Python port scanner with:
+- 🖥️ **GUI (Tkinter)**
+- 📄 **CSV export**
+- 🛡️ **Service detection (banner grabbing)**
 
 This is a simple Python-based port scanner built for educational and cybersecurity learning purposes.
 
-## 📌 Features
+✨ Features
+- ⚡ Multi-threaded & fast scanning
+- 🎛️ User-friendly GUI
+- 🎯 Custom port range selection
+- 🔍 Basic service detection (SSH, HTTP, FTP etc.)
+- 📦 Export scan results to CSV
 
-- Scan any IP or domain for open ports
-- Multithreaded scanning for fast results
-- Easy to use and modify
-
-## 🛠️ Requirements
+🛠 Requirements
 
 - Python 3.x
-- Run using: `python3 scanner.py`
+- Tkinter (usually comes pre-installed)
 
-## 🚀 How to Run
+
+🚀  How To Run
 
 ```bash
 git clone https://github.com/Asadullah8797/port-scanner.git
 cd port-scanner
 python3 scanner.py
-# Port Scanner
-Simple Python-based port scanner for cybersecurity practice.
