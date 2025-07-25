@@ -1,4 +1,4 @@
-# **Advanced Port Scanner - Step-by-Step Guide**  
+# **Advanced Port Scanner 
 
 ## **📌 Table of Contents**  
 1. [Introduction](#-introduction)  
